@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groupList> 
+  <group name="周柏豪" addDate="2020-01-12 00:27:36">
+    <sound>
+      <filePath>D:\Java\workspace\MusicPlay\allmusic\许嵩-天龙八部之宿敌.mp3</filePath>
+      <addDate>2020-01-12 00:28:17</addDate>
+    </sound>
+    <sound>
+      <filePath>D:\Java\workspace\MusicPlay\allmusic\薛之谦-认真的雪.mp3</filePath>
+      <addDate>2020-01-12 00:28:17</addDate>
+    </sound>
+    <sound>
+      <filePath>D:\Java\workspace\MusicPlay\allmusic\薛之谦-意外.mp3</filePath>
+      <addDate>2020-01-12 00:28:17</addDate>
+    </sound>
+    <sound>
+      <filePath>D:\Java\workspace\MusicPlay\allmusic\周柏豪-够钟.mp3</filePath>
+      <addDate>2020-01-12 00:28:17</addDate>
+    </sound>
+    <sound>
+      <filePath>D:\Java\workspace\MusicPlay\allmusic\周柏豪-我的宣言.mp3</filePath>
+      <addDate>2020-01-12 00:28:17</addDate>
+    </sound>
+    <sound>
+      <filePath>D:\Java\workspace\MusicPlay\allmusic\周柏豪-走狗.mp3</filePath>
+      <addDate>2020-01-12 00:28:17</addDate>
+    </sound>
+  </group> 
+</groupList>
